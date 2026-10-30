@@ -21,8 +21,9 @@ src/
 tb/
     tb_axi_lite_write_master.sv
     tb_axi_lite_read_master.sv
-docs/images/
-    (screenshots used in this README)
+docs/
+    report
+    images
 README.md
 ```
 
