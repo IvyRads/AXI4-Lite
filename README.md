@@ -138,9 +138,8 @@ You can see `awvalid` and `wvalid` staying high until `awready` and `wready` pul
 
 ## Author
 
-Your Name
-Your College, Year
-GitHub: your-username
+Vidya S R
+GitHub: IvyRads
 
 ## License
 
